@@ -1,5 +1,5 @@
 {% set name = "unicorn-binance-trailing-stop-loss" %}
-{% set version = "0.7.1" %}
+{% set version = "0.8.0" %}
 
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/unicorn-binance-trailing-stop-loss-{{ version }}.tar.gz
-  sha256: 5dafd9670a745d591018fcd7df358bcbb71c4b66bf21781fad61eda83d94d7ce
+  sha256: 643f890b8cee206b49172c697ea563c181f887d82a9e4d20375a494931b4493a
 
 build:
   number: 0
