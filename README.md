@@ -1,11 +1,11 @@
-About unicorn-binance-trailing-stop-loss
-========================================
+About unicorn-binance-trailing-stop-loss-feedstock
+==================================================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/unicorn-binance-trailing-stop-loss-feedstock/blob/main/LICENSE.txt)
 
 Home: https://www.lucit.tech/unicorn-binance-trailing-stop-loss.html
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/unicorn-binance-trailing-stop-loss-feedstock/blob/main/LICENSE.txt)
 
 Summary: A Python library with a command line interface for a trailing stop loss on Binance Exchange.
 
@@ -13,8 +13,7 @@ Development: https://github.com/LUCIT-Systems-and-Development/unicorn-binance-tr
 
 Documentation: https://unicorn-binance-trailing-stop-loss.docs.lucit.tech
 
-A Python library with a command line interface for a trailing stop loss on Binance Exchange in a easy, fast,
-flexible, robust and fully-featured way.
+A Python library with a command line interface for a trailing stop loss and smart entry on the Binance exchange.
 
 
 Current build status
@@ -103,7 +102,7 @@ available continuous integration services. Thanks to the awesome service provide
 [CircleCI](https://circleci.com/), [AppVeyor](https://www.appveyor.com/),
 [Drone](https://cloud.drone.io/welcome), and [TravisCI](https://travis-ci.com/)
 it is possible to build and upload installable packages to the
-[conda-forge](https://anaconda.org/conda-forge) [Anaconda-Cloud](https://anaconda.org/)
+[conda-forge](https://anaconda.org/conda-forge) [anaconda.org](https://anaconda.org/)
 channel for Linux, Windows and OSX respectively.
 
 To manage the continuous integration and simplify feedstock maintenance
